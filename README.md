@@ -1,4 +1,4 @@
-- 👋 Hi, I’m S M Majedul Karim
+- 👋 Hi, It's about the course.
 
 <!---
 smmaskarim/smmaskarim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
